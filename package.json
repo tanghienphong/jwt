@@ -1,0 +1,24 @@
+{
+  "name": "jwt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanghienphong/jwt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tanghienphong/jwt/issues"
+  },
+  "homepage": "https://github.com/tanghienphong/jwt#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
